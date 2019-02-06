@@ -7,7 +7,7 @@ First test Koa😎🐱‍🏍
 
 3. npm i -D nodemon✔
 
-4.npm i koa-json✔
+4.npm i koa-json  SON pretty-printed response middleware. Also converts node object streams to binary.✔
 
 5.npm i koa-router✔
 
